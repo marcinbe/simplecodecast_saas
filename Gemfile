@@ -50,3 +50,5 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+# devise for user management
+gem 'devise', '3.4.1'
